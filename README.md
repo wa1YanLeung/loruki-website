@@ -1,4 +1,4 @@
-# loruki-website
+# loruki company landing page
 Cloud hosting website
 
-https://pedantic-bohr-e0ba29.netlify.app/index.html
+https://loruki21.netlify.app/
